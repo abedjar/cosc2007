@@ -1,0 +1,7 @@
+/* style.css */
+.slidev-layout {
+  padding: 1rem 1.5rem !important;   /* top/bottom, left/right */
+}
+.slidev-layout h1 {
+  margin-bottom: 0.5rem;             /* tighter title spacing */
+}
